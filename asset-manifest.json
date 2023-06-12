@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-OmMyTodoL/static/css/main.ab653295.css",
+    "main.js": "/-OmMyTodoL/static/js/main.f97c03a7.js",
+    "index.html": "/-OmMyTodoL/index.html",
+    "main.ab653295.css.map": "/-OmMyTodoL/static/css/main.ab653295.css.map",
+    "main.f97c03a7.js.map": "/-OmMyTodoL/static/js/main.f97c03a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab653295.css",
+    "static/js/main.f97c03a7.js"
+  ]
+}
